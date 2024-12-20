@@ -90,4 +90,9 @@ If you use this code in your research, please cite:
 
 	Samadi, M. A., Shariff, D., Ibarra, R., & Nixon, N. (2025). Balancing the Scales: Using GPT-4 for Robust Data Augmentation. In Companion Proceedings of the 15th International Conference on Learning Analytics & Knowledge (LAK25).
 
+We welcome contributions, suggestions, and collaborations to improve this repository! If you have any questions, ideas, or issues, feel free to:
+- Open an issue in the repository.
+- Start a discussion using the GitHub Discussions feature.
+- Reach out via email (masamadi@uci.edu) for collaboration opportunities.
 
+Let’s work together to advance robust data augmentation strategies in NLP and beyond!
