@@ -18,7 +18,7 @@ The generated samples are evaluated against a back-translation baseline (M2M100 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-augmentation.git
+   git clone https://github.com/aminsmd/data-augmentation.git
    cd data-augmentation
 
 2.	Install dependencies:
